@@ -4,5 +4,5 @@ The massiveOES python package is neceseryy for proper function as the script wor
 Also the GUI was designed for our specific measurement series, that is to display and compare various combinations of different binning (averiging of spatial positions from ICCD) and temporal steps. The GUI can be easily adjusted for
 more or less variables. Acces by typing `python master_plotter.py`. Loading of atteched data may take a minute.
 
-Presented GUI has limited capabilities and its main purpose is just visualization of fitted json files from massiveOES, I have better more complex scripts which I did not have chance to implement here or were not practicle
+Presented GUI has limited capabilities and its main purpose is just visualization of fitted json files from massiveOES. This version represents raw initial working version. I have better more complex scripts which I did not have chance to implement here or were not practicle
 to implement into GUI. If you are interested feel free to cantact me on lkusyn@main.muni.cz
