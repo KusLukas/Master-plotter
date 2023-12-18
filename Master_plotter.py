@@ -374,7 +374,7 @@ class get_vars:
 
 class Math_and_plot:
     def initial_plot_conditions():
-        fns_head_switch=False #Display central position of FNS peak my lord?
+        fns_head_switch=False #Display central position of FNS peak?
         fns_e_switch=False #Display 1/e mark?
         sps_head_switch=False
         sps_e_switch=False
